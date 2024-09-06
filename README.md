@@ -2,9 +2,9 @@
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning Computer Science
 - 💞️ I’m looking to collaborate on Real World Solutions
-- 📫 How to reach me at hasindividusha@gmail.com
+- 📫 How to reach me -> hasindividusha@gmail.com
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: Just reach out and see ;)
+- ⚡ Fun fact: I love music
 
 <!---
 Vidusha620/Vidusha620 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
