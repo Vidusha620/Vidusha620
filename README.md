@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Vidusha620
+- 👋 Hi, I’m Vidusha
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning Computer Science
 - 💞️ I’m looking to collaborate on Real World Solutions
