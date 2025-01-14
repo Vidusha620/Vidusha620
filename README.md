@@ -4,7 +4,6 @@
 - 💞️ I’m looking to collaborate on Real World Solutions
 - 📫 How to reach me -> hasindividusha@gmail.com
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: I love music
 
 <!---
 Vidusha620/Vidusha620 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
